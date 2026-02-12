@@ -15,7 +15,7 @@
 
 ## Sobre Mí
 
-Estudiante de Ingeniería en Sistemas y Redes Informáticas con formación sólida en **ciberseguridad**, **infraestructura TI** y **desarrollo de software empresarial**. Experiencia técnica en mantenimiento y optimización de infraestructura tecnológica, así como en la creación de herramientas de scripting para auditoría de redes y detección de vulnerabilidades.
+Soy un estudiante de Ingeniería en Sistemas y Redes Informáticas con formación sólida en **ciberseguridad**, **infraestructura TI** y **desarrollo de software empresarial**. Experiencia técnica en mantenimiento y optimización de infraestructura tecnológica, así como en la creación de herramientas de scripting para auditoría de redes y detección de vulnerabilidades.
 
 Apasionado por la seguridad informática y la búsqueda constante de soluciones eficientes en entornos de red.
 
