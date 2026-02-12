@@ -117,6 +117,6 @@ Sistema de gestión de asistencia automatizado con tecnología RFID. Diseño de 
 
 <div align="center">
 
-*"La búsqueda constante de soluciones eficientes en entornos de red"*
+*"Soluciones tecnológicas para mejorar la calidad de vida de las personas"*
 
 </div>
