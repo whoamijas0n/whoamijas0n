@@ -14,39 +14,48 @@
 
 ## About Me
 
-```typescript
-const jason = {
-    role: "Red Team Engineer & Telecom Technician",
-    location: "Usulután, El Salvador",
-    education: "Ingeniería en Sistemas y Redes Informáticas",
+<p align="center">
+  <img src="https://img.shields.io/badge/Clearance-Red_Team_Operator-DC2626?style=for-the-badge&logo=target&logoColor=white" alt="Clearance" />
+  <img src="https://img.shields.io/badge/Specialty-Telecom_%26_Infrastructure-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Specialty" />
+  <img src="https://img.shields.io/badge/Status-Active_Research-22C55E?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+</p>
 
-    specializations: [
-        "Ciberseguridad Ofensiva (Red Team)",
-        "Telecomunicaciones Cisco (CCNA Path)",
-        "Infraestructura Proxmox VE (KVM/LXC)",
-        "Hardware Hacking (ESP32 / Raspberry Pi)"
-    ],
+<table align="center" width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      &nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>whoamijas0n@kali-redteam:~# whoami --verbose</code>
+    </th>
+  </tr>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="coding.gif" width="100%" style="border-radius: 8px; max-width: 320px;" alt="Jason Coding Workspace" />
+      <br/><br/>
+      <blockquote>
+        <em>"Las soluciones más elegantes nacen cuando combinas ataque y defensa."</em><br/>
+        <sub><strong>— Jason Caballero</strong> (<code>@whoamijas0n</code>)</sub>
+      </blockquote>
+    </td>
+    <td width="62%" valign="top">
+      <h3>⚡ Red Team Researcher & Systems Engineer</h3>
+      <p>
+        Estudiante de <strong>Ingeniería en Sistemas y Redes Informáticas</strong> enfocado en la convergencia entre <strong>seguridad ofensiva</strong>, <strong>infraestructura de telecomunicaciones</strong> y <strong>hardware hacking</strong>. Mi propósito es analizar vectores de ataque para diseñar infraestructuras robustas y herramientas de automatización de alto impacto.
+      </p>
+      <ul>
+        <li>🎯 <strong>Red Team & Pentesting:</strong> Simulación de adversarios, auditorías inalámbricas, técnicas de evasión y reconocimiento OSINT.</li>
+        <li>🌐 <strong>Telecomunicaciones:</strong> Cisco Networking (CCNA Path), VLANs, enrutamiento OSPF, switching y análisis de paquetes con Wireshark.</li>
+        <li>🖥️ <strong>Virtualización & SysAdmin:</strong> Proxmox VE (KVM/LXC), almacenamiento ZFS Pools, Linux Hardening y contenedores Docker.</li>
+        <li>⚡ <strong>Hardware Hacking & IoT:</strong> Microcontroladores ESP32, Raspberry Pi, ataques BadUSB / HID y radiofrecuencia (RF).</li>
+        <li>🔬 <strong>Tooling Activo:</strong> Creador de <a href="https://github.com/whoamijas0n/DragonFly"><strong>DragonFly</strong></a> (Suite Red Team) y <a href="https://github.com/whoamijas0n/Soranin"><strong>Soranin</strong></a> (Framework OSINT).</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Location-Usulut%C3%A1n%2C_El_Salvador_🇸🇻-10B981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+        <img src="https://img.shields.io/badge/Path-Cisco_CCNA-0A66C2?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Tooling-Python_%7C_C%2B%2B_%7C_Bash-3776AB?style=flat-square&logo=python&logoColor=white" alt="Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-    currentlyLearning: [
-        "Cisco Ethical Hacker Certification",
-        "Junior Cybersecurity Analyst Career Path"
-    ],
-
-    focus: [
-        "DragonFly — Modular Red Team Security Suite",
-        "Soranin — Async OSINT & Reconnaissance Framework"
-    ]
-};
-```
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    "Las soluciones más elegantes nacen cuando combinas ataque y defensa."    ║
-║                                                                              ║
-║                                                — Jason Caballero @whoamijas0n║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
@@ -255,7 +264,7 @@ const jason = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ServoPipe <img src="https://img.shields.io/badge/2nd_Place_FLIA-FFD700?style=flat-square" alt="Award"/></h3>
+      <h3 align="center">ServoPipe </h3>
       <p align="center">
         <a href="https://github.com/whoamijas0n/ServoPipe" target="_blank">
           <img src="https://img.shields.io/badge/Robótica_&_CV-EAB308?style=for-the-badge&logo=opencv&logoColor=white" alt="ServoPipe"/>
@@ -286,7 +295,7 @@ const jason = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">FiExpress <img src="https://img.shields.io/badge/3rd_Place_FLIA-CD7F32?style=flat-square" alt="Award"/></h3>
+      <h3 align="center">FiExpress</h3>
       <p align="center">
         <a href="https://github.com/whoamijas0n/fiexpress" target="_blank">
           <img src="https://img.shields.io/badge/IoT_RFID_System-EA580C?style=for-the-badge&logo=espressif&logoColor=white" alt="FiExpress"/>
