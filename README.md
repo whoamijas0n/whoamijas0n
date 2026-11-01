@@ -12,40 +12,11 @@
 
 ---
 
-## About Me
+## whoami
 
-```typescript
-const jason = {
-    role: "Red Team Engineer & Telecom Technician",
-    location: "Usulután, El Salvador",
-    education: "Ingeniería en Sistemas y Redes Informáticas",
+Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en Usulután, El Salvador 🇸🇻. Me especializo en **ciberseguridad ofensiva (Red Team)**, **infraestructura de telecomunicaciones Cisco (CCNA Path)**, **virtualización con Proxmox VE** y **hardware hacking** con microcontroladores (ESP32, Raspberry Pi y BadUSB). Desarrollo herramientas de seguridad modulares como [**DragonFly**](https://github.com/whoamijas0n/DragonFly) y [**Soranin**](https://github.com/whoamijas0n/Soranin), y actualmente profundizo en arquitecturas de red y analítica defensiva, abierto a retos técnicos e investigación colaborativa.
 
-    specializations: [
-        "Ciberseguridad Ofensiva (Red Team)",
-        "Telecomunicaciones Cisco (CCNA Path)",
-        "Infraestructura Proxmox VE (KVM/LXC)",
-        "Hardware Hacking (ESP32 / Raspberry Pi)"
-    ],
-
-    currentlyLearning: [
-        "Cisco Ethical Hacker Certification",
-        "Junior Cybersecurity Analyst Career Path"
-    ],
-
-    focus: [
-        "DragonFly — Modular Red Team Security Suite",
-        "Soranin — Async OSINT & Reconnaissance Framework"
-    ]
-};
-```
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    "Las soluciones más elegantes nacen cuando combinas ataque y defensa."    ║
-║                                                                              ║
-║                                                — Jason Caballero @whoamijas0n║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+> *"Las soluciones más elegantes nacen cuando combinas ataque y defensa."* — **Jason Caballero** (<code>@whoamijas0n</code>)
 
 
 <br/>
