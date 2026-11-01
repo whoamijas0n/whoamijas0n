@@ -196,25 +196,17 @@ const jason = {
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://www.credly.com/badges/a0f29d45-c768-4df7-b4fb-e7815d6d3e98" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/47c29106-fb2c-430f-8aab-e39b10e8e4bd/image.png" width="115" alt="Network Technician"/>
+        <img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="125" alt="Network Technician"/>
       </a><br/>
       <strong>Network Technician Career Path</strong><br/>
       <sub>Cisco Networking Academy</sub><br/>
       <img src="https://img.shields.io/badge/Verified-28A745?style=flat-square" alt="Verified"/>
     </td>
-    <td align="center" width="33%">
-      <a href="https://www.credly.com/badge_templates/2aff6d71-ae6f-44cb-a8ec-5349f807d49b" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAEHK__1_.png" width="115" alt="Ethical Hacker"/>
-      </a><br/>
-      <strong>Cisco Ethical Hacker</strong><br/>
-      <sub>Cisco Networking Academy</sub><br/>
-      <img src="https://img.shields.io/badge/In_Progress-FFA500?style=flat-square" alt="In Progress"/>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.credly.com" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/f5cf6a94-57e0-4f0b-8588-60f2e3cf0751/01_CCST_Cybersecurity.png" width="115" alt="Junior Cybersecurity"/>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/org/cisco/badge/junior-cybersecurity-analyst-career-path" target="_blank">
+        <img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="125" alt="Junior Cybersecurity Analyst"/>
       </a><br/>
       <strong>Jr. Cybersecurity Analyst Path</strong><br/>
       <sub>Cisco Networking Academy</sub><br/>
@@ -222,47 +214,6 @@ const jason = {
     </td>
   </tr>
 </table>
-
-<details>
-  <summary><strong>Ver todas las insignias verificadas de Cisco en Credly (Click para desplegar)</strong></summary>
-  <br/>
-  <div align="center">
-    <table align="center">
-      <tr>
-        <td align="center">
-          <a href="https://www.credly.com/badges/90cabeae-51ac-4fda-9b23-87b4f61bc8b6" target="_blank"><img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="85" alt="Networking Basics"/></a><br/>
-          <sub>Networking Basics</sub>
-        </td>
-        <td align="center">
-          <a href="https://www.credly.com/badges/753f77c5-e18b-4321-bdfa-96add872682a" target="_blank"><img src="https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="85" alt="Networking Devices"/></a><br/>
-          <sub>Networking Devices</sub>
-        </td>
-        <td align="center">
-          <a href="https://www.credly.com/badges/2d357952-c9d6-402f-8784-f1b9c012c459" target="_blank"><img src="https://images.credly.com/size/110x110/images/739ac361-065d-4db0-9e35-22227a81228d/image.png" width="85" alt="Network Addressing"/></a><br/>
-          <sub>Addressing & Troubleshooting</sub>
-        </td>
-        <td align="center">
-          <a href="https://www.credly.com/badges/4d6426d5-b321-4d92-9cda-71d58dc2a31a" target="_blank"><img src="https://images.credly.com/size/110x110/images/75231060-7058-4515-863a-ab1f3ab8fa01/image.png" width="85" alt="Network Support"/></a><br/>
-          <sub>Network Support & Security</sub>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <a href="https://www.credly.com/badges/748178b5-9810-43df-8d54-ac880cc71c0b" target="_blank"><img src="https://images.credly.com/size/110x110/images/af8c67b0-3571-4a25-a153-dc3e3d8d55a0/image.png" width="85" alt="Intro to Cybersecurity"/></a><br/>
-          <sub>Intro to Cybersecurity</sub>
-        </td>
-        <td align="center">
-          <a href="https://www.credly.com/badges/30174eae-0beb-47a6-a890-c50ddfe395c6" target="_blank"><img src="https://images.credly.com/size/110x110/images/0a00ff20-42f4-4991-8434-7e8c1a4697b4/image.png" width="85" alt="Endpoint Security"/></a><br/>
-          <sub>Endpoint Security</sub>
-        </td>
-        <td align="center" colspan="2">
-          <em>Certificación Redes & Telecomunicaciones (Platzi)</em><br/>
-          <em>Administración Proxmox VE & PostgreSQL/MariaDB</em>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
 
 <br/>
 
