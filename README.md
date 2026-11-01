@@ -5,23 +5,19 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=1000&color=E06C75&center=true&vCenter=true&width=750&lines=Red+Team+Engineer+%E2%80%A2+Offensive+Security;Telecomunicaciones+Cisco+%E2%80%A2+CCNA+Path;Infraestructura+Proxmox+VE+%E2%80%A2+Servidores;Hardware+Hacking+%E2%80%A2+ESP32+%26+Raspberry+Pi;Desarrollador+Python+%26+C%2B%2B+%26+Bash;" alt="Typing Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=1000&color=E06C75&center=true&vCenter=true&width=650&lines=Red+Team+Engineer+%7C+Offensive+Security;Cisco+Networking+%7C+CCNA+Path;Proxmox+VE+%7C+Infrastructure;Hardware+Hacking+%7C+ESP32+%26+Raspberry+Pi;Python+%7C+C%2B%2B+%7C+Bash;" alt="Typing Headline" />
 </p>
 
 </div>
 
 ---
 
-## 🎯 About Me
-
-<table>
-<tr>
-<td width="58%" valign="top">
+## About Me
 
 ```typescript
 const jason = {
     role: "Red Team Engineer & Telecom Technician",
-    location: "Usulután, El Salvador 🇸🇻",
+    location: "Usulután, El Salvador",
     education: "Ingeniería en Sistemas y Redes Informáticas",
 
     specializations: [
@@ -36,50 +32,40 @@ const jason = {
         "Junior Cybersecurity Analyst Career Path"
     ],
 
-    tech: {
-        offensive: ["DragonFly", "Soranin", "Wi-Fi Cracking", "BadUSB / HID"],
-        defensive: ["Wireshark", "Hardening", "SOC Tier 1", "Linux Bridges"],
-        networking: ["Cisco IOS", "VLANs", "OSPF", "NAT/PAT", "IPv4/IPv6"],
-        infra: ["Proxmox VE", "Debian", "Arch Linux", "PostgreSQL", "Docker"]
-    }
+    focus: [
+        "DragonFly — Modular Red Team Security Suite",
+        "Soranin — Async OSINT & Reconnaissance Framework"
+    ]
 };
 ```
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360" alt="Lofi Coding Animation"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="coding.gif" alt="Terminal Workspace" width="460" style="max-width: 100%; border-radius: 8px;" />
+  <br/><br/>
+  <p>
+    <em>"Las soluciones más elegantes nacen cuando combinas ataque y defensa."</em><br/>
+    <strong>— Jason Caballero</strong>
+  </p>
+</div>
 
 <br/>
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/whoamijas0n" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="170" height="32" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://whoamijas0nport.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-1C1D21?style=for-the-badge&logo=safari&logoColor=white&labelColor=00C7B7" width="170" height="32" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=safari&logoColor=white" height="36" alt="Portfolio" />
   </a>
-  &nbsp;
   <a href="mailto:jasonadonayv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-CONTACT-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="170" height="32" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
   </a>
-  &nbsp;
   <a href="https://github.com/whoamijas0n" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-1C1D21?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="170" height="32" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub" />
   </a>
 </p>
 
@@ -87,99 +73,76 @@ const jason = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
-<table align="center" width="100%">
-<tr>
+<div align="center">
 
-<!-- COLUMNA IZQUIERDA -->
-<td width="50%" align="center" valign="top">
-
-### 🛡️ Cybersecurity & Offensive Ops
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,c,cpp&perline=7" alt="Security Icons"/>
-<br/>
+### Cybersecurity & Offensive Security
 <p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/BadUSB-DC2626?style=for-the-badge&logo=usb&logoColor=white" alt="BadUSB"/>
-  <img src="https://img.shields.io/badge/Red_Team-B91C1C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Red Team"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-13294B?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Red_Team-B91C1C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Red Team" />
+  <img src="https://img.shields.io/badge/BadUSB_%2F_HID-DC2626?style=for-the-badge&logo=usb&logoColor=white" alt="BadUSB" />
 </p>
 
-<br/>
-
-### 💻 Languages & Development
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,c,bash,js,html,css&perline=8" alt="Language Icons"/>
-<br/>
+### Networking & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/.NET_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AsyncIO"/>
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS" />
+  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_Bridges-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Bridges" />
+  <img src="https://img.shields.io/badge/ZFS_Pools-00599C?style=for-the-badge&logo=freebsd&logoColor=white" alt="ZFS" />
+  <img src="https://img.shields.io/badge/VLANs_%26_OSPF-008080?style=for-the-badge&logo=cisco&logoColor=white" alt="VLANs & OSPF" />
 </p>
 
-<br/>
-
-### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=5" alt="Database Icons"/>
-<br/>
+### Languages & Development
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 </p>
 
-</td>
-
-<!-- COLUMNA DERECHA -->
-<td width="50%" align="center" valign="top">
-
-### 🌐 Networking & Infrastructure
+### Databases & Storage
 <p>
-  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS"/>
-  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE"/>
-  <img src="https://img.shields.io/badge/VLANs_%26_OSPF-008080?style=for-the-badge&logoColor=white" alt="VLANs & OSPF"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/KVM_%2F_LXC-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="KVM/LXC"/>
-  <img src="https://img.shields.io/badge/ZFS_Pools-00599C?style=for-the-badge&logo=freebsd&logoColor=white" alt="ZFS"/>
-  <img src="https://img.shields.io/badge/NAT_%2F_PAT-2563EB?style=for-the-badge&logoColor=white" alt="NAT/PAT"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
-<br/>
-
-### 🔧 Hardware Hacking & Robotics
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=5" alt="Hardware Icons"/>
-<br/>
+### Hardware & IoT Engineering
 <p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/RFID_IoT-EA580C?style=for-the-badge&logoColor=white" alt="RFID"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
 </p>
 
-<br/>
-
-### 🖥️ Systems & Environments
-<img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,linux,windows,vscode,git,github&perline=8" alt="OS & Tools Icons"/>
-<br/>
+### Operating Systems & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <br/>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=whoamijas0n&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff3333&icon_color=ff6666&text_color=c9d1d9" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=whoamijas0n&theme=radical&hide_border=true&background=0d1117&ring=ff3333&fire=ff6666&currStreakLabel=ff3333" alt="GitHub Streak" />
 </p>
 
@@ -192,58 +155,33 @@ const jason = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whoamijas0n&theme=radical&utcOffset=-6" alt="Productive Time"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whoamijas0n&theme=radical" alt="Summary Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whoamijas0n&theme=radical" alt="Most Commit Language"/>
-</p>
-
 <br/>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/whoamijas0n">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=whoamijas0n&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<br/>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whoamijas0n&theme=redical&hide_border=true&bg_color=0d1117&color=ff3333&line=ff6666&point=ffffff&area=true&area_color=ff333330" alt="Activity Graph"/>
-</p>
-
-<br/>
-
----
-
-## 🏅 Awards & Achievements
+## Awards & Recognition
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🥇_1er_Lugar-FFD700?style=for-the-badge&logoColor=black" alt="1st Place"/><br/>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/1st_Place-FFD700?style=for-the-badge&labelColor=181717&logoColor=white" alt="1st Place"/><br/>
       <strong>Desarrollo de Software</strong><br/>
       <sub>FLIA UGB · 2026</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🥉_3er_Lugar-00BCD4?style=for-the-badge&logoColor=black" alt="3rd Place"/><br/>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/3rd_Place-00BCD4?style=for-the-badge&labelColor=181717&logoColor=white" alt="3rd Place"/><br/>
       <strong>CONINFO Nacional</strong><br/>
       <sub>ASPROC · 2026</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🥈_2do_Lugar-C0C0C0?style=for-the-badge&logoColor=black" alt="2nd Place"/><br/>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/2nd_Place-C0C0C0?style=for-the-badge&labelColor=181717&logoColor=white" alt="2nd Place"/><br/>
       <strong>Robótica & IoT</strong><br/>
       <sub>FLIA UGB · 2025</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🥉_3er_Lugar-CD7F32?style=for-the-badge&logoColor=black" alt="3rd Place"/><br/>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/3rd_Place-CD7F32?style=for-the-badge&labelColor=181717&logoColor=white" alt="3rd Place"/><br/>
       <strong>Automatización</strong><br/>
       <sub>FLIA UGB · 2025</sub>
     </td>
@@ -254,7 +192,7 @@ const jason = {
 
 ---
 
-## 📜 Certifications & Cisco Badges
+## Certifications & Credentials
 
 <table align="center" width="100%">
   <tr>
@@ -264,7 +202,7 @@ const jason = {
       </a><br/>
       <strong>Network Technician Career Path</strong><br/>
       <sub>Cisco Networking Academy</sub><br/>
-      <img src="https://img.shields.io/badge/✅_Completado-28A745?style=flat-square" alt="Completed"/>
+      <img src="https://img.shields.io/badge/Verified-28A745?style=flat-square" alt="Verified"/>
     </td>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badge_templates/2aff6d71-ae6f-44cb-a8ec-5349f807d49b" target="_blank">
@@ -272,7 +210,7 @@ const jason = {
       </a><br/>
       <strong>Cisco Ethical Hacker</strong><br/>
       <sub>Cisco Networking Academy</sub><br/>
-      <img src="https://img.shields.io/badge/🔄_En_Curso-FFA500?style=flat-square" alt="In Progress"/>
+      <img src="https://img.shields.io/badge/In_Progress-FFA500?style=flat-square" alt="In Progress"/>
     </td>
     <td align="center" width="33%">
       <a href="https://www.credly.com" target="_blank">
@@ -280,13 +218,13 @@ const jason = {
       </a><br/>
       <strong>Jr. Cybersecurity Analyst Path</strong><br/>
       <sub>Cisco Networking Academy</sub><br/>
-      <img src="https://img.shields.io/badge/🔄_En_Curso-FFA500?style=flat-square" alt="In Progress"/>
+      <img src="https://img.shields.io/badge/In_Progress-FFA500?style=flat-square" alt="In Progress"/>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary>📋 <strong>Ver todas las insignias verificadas de Cisco en Credly (Click para desplegar)</strong></summary>
+  <summary><strong>Ver todas las insignias verificadas de Cisco en Credly (Click para desplegar)</strong></summary>
   <br/>
   <div align="center">
     <table align="center">
@@ -330,12 +268,12 @@ const jason = {
 
 ---
 
-## 🚀 Proyectos Destacados
+## Featured Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐉 DragonFly System</h3>
+      <h3 align="center">DragonFly System</h3>
       <p align="center">
         <a href="https://github.com/whoamijas0n/DragonFly" target="_blank">
           <img src="https://img.shields.io/badge/Red_Team_Toolbox-DC2626?style=for-the-badge&logo=linux&logoColor=white" alt="DragonFly"/>
@@ -350,7 +288,7 @@ const jason = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 Soranin OSINT</h3>
+      <h3 align="center">Soranin OSINT</h3>
       <p align="center">
         <a href="https://github.com/whoamijas0n/Soranin" target="_blank">
           <img src="https://img.shields.io/badge/OSINT_Framework-2563EB?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Soranin"/>
@@ -366,7 +304,7 @@ const jason = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 ServoPipe <img src="https://img.shields.io/badge/🏆_2°_FLIA-FFD700?style=flat-square" alt="Award"/></h3>
+      <h3 align="center">ServoPipe <img src="https://img.shields.io/badge/2nd_Place_FLIA-FFD700?style=flat-square" alt="Award"/></h3>
       <p align="center">
         <a href="https://github.com/whoamijas0n/ServoPipe" target="_blank">
           <img src="https://img.shields.io/badge/Robótica_&_CV-EAB308?style=for-the-badge&logo=opencv&logoColor=white" alt="ServoPipe"/>
@@ -381,7 +319,7 @@ const jason = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📟 REI Hub</h3>
+      <h3 align="center">REI Hub</h3>
       <p align="center">
         <a href="https://github.com/whoamijas0n/rei" target="_blank">
           <img src="https://img.shields.io/badge/Diagnostic_Hub-06B6D4?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="REI Hub"/>
@@ -397,7 +335,7 @@ const jason = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💳 FiExpress <img src="https://img.shields.io/badge/🏆_3°_FLIA-CD7F32?style=flat-square" alt="Award"/></h3>
+      <h3 align="center">FiExpress <img src="https://img.shields.io/badge/3rd_Place_FLIA-CD7F32?style=flat-square" alt="Award"/></h3>
       <p align="center">
         <a href="https://github.com/whoamijas0n/fiexpress" target="_blank">
           <img src="https://img.shields.io/badge/IoT_RFID_System-EA580C?style=for-the-badge&logo=espressif&logoColor=white" alt="FiExpress"/>
@@ -411,7 +349,7 @@ const jason = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤟 HandTalk</h3>
+      <h3 align="center">HandTalk</h3>
       <p align="center">
         <a href="https://github.com/Shadow026/HandTalk" target="_blank">
           <img src="https://img.shields.io/badge/Sign_Language_AI-9333EA?style=for-the-badge&logo=tensorflow&logoColor=white" alt="HandTalk"/>
@@ -431,7 +369,7 @@ const jason = {
 
 ---
 
-## 📋 Profile Summary
+## Overview
 
 <div align="center">
 
