@@ -39,14 +39,14 @@ const jason = {
 };
 ```
 
-<div align="center">
-  <img src="coding.gif" alt="Terminal Workspace" width="460" style="max-width: 100%; border-radius: 8px;" />
-  <br/><br/>
-  <p>
-    <em>"Las soluciones más elegantes nacen cuando combinas ataque y defensa."</em><br/>
-    <strong>— Jason Caballero</strong>
-  </p>
-</div>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    "Las soluciones más elegantes nacen cuando combinas ataque y defensa."    ║
+║                                                                              ║
+║                                                — Jason Caballero @whoamijas0n║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
@@ -338,13 +338,5 @@ const jason = {
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&color=DC2626" width="100%" alt="Footer Wave"/>
 </p>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    "Las soluciones más elegantes nacen cuando combinas ataque y defensa."    ║
-║                                                                              ║
-║                                                — Jason Caballero @whoamijas0n║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 </div>
