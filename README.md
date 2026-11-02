@@ -45,9 +45,11 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 <br/>
 
 ---
-
+<div align="center">
+  
 ## Tech Stack
 
+</div>
 <div align="center">
 
 ### Cybersecurity & Offensive Security
@@ -112,9 +114,11 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 <br/>
 
 ---
+<div align="center">
 
 ## GitHub Analytics
 
+</div>
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=whoamijas0n&theme=radical&hide_border=true&background=0d1117&ring=ff3333&fire=ff6666&currStreakLabel=ff3333" alt="GitHub Streak" />
 </p>
@@ -131,9 +135,11 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 <br/>
 
 ---
+<div align="center">
 
 ## Awards & Recognition
 
+</div>
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -164,9 +170,11 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 <br/>
 
 ---
+<div align="center">
 
 ## Certifications & Credentials
 
+</div>
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -191,9 +199,11 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 <br/>
 
 ---
+<div align="center">
 
 ## Featured Projects
 
+</div>
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -292,9 +302,11 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 <br/>
 
 ---
+<div align="center">
 
 ## Overview
 
+</div>
 <div align="center">
 
   <img height="34" src="https://komarev.com/ghpvc/?username=whoamijas0n&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=DC2626" alt="Profile Views"/>
