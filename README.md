@@ -11,9 +11,9 @@
 </div>
 
 ---
-
+<div align="center">
 ## whoami
-
+</div>
 Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en Usulután, El Salvador. Me especializo en **ciberseguridad ofensiva (Red Team)**, **infraestructura de telecomunicaciones Cisco (CCNA Path)**, **virtualización con Proxmox VE** y **hardware hacking** con microcontroladores (ESP32, Raspberry Pi y BadUSB). Desarrollo herramientas de seguridad modulares como [**DragonFly**](https://github.com/whoamijas0n/DragonFly) y [**Soranin**](https://github.com/whoamijas0n/Soranin), y actualmente profundizo en arquitecturas de red y analítica defensiva, abierto a retos técnicos e investigación colaborativa.
 
 > *"Las soluciones más elegantes nacen cuando combinas ataque y defensa."* — **Jason Caballero** (<code>@whoamijas0n</code>)
@@ -22,9 +22,9 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 <br/>
 
 ---
-
+<div align="center">
 ## Connect with Me
-
+</div>
 <p align="center">
   <a href="https://linkedin.com/in/whoamijas0n" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
@@ -34,9 +34,6 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
   </a>
   <a href="mailto:jasonadonayv@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
-  </a>
-  <a href="https://github.com/whoamijas0n" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub" />
   </a>
 </p>
 
