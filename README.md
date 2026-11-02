@@ -12,8 +12,11 @@
 
 ---
 <div align="center">
+  
 ## whoami
+
 </div>
+
 Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en Usulután, El Salvador. Me especializo en **ciberseguridad ofensiva (Red Team)**, **infraestructura de telecomunicaciones Cisco (CCNA Path)**, **virtualización con Proxmox VE** y **hardware hacking** con microcontroladores (ESP32, Raspberry Pi y BadUSB). Desarrollo herramientas de seguridad modulares como [**DragonFly**](https://github.com/whoamijas0n/DragonFly) y [**Soranin**](https://github.com/whoamijas0n/Soranin), y actualmente profundizo en arquitecturas de red y analítica defensiva, abierto a retos técnicos e investigación colaborativa.
 
 > *"Las soluciones más elegantes nacen cuando combinas ataque y defensa."* — **Jason Caballero** (<code>@whoamijas0n</code>)
@@ -23,7 +26,9 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 
 ---
 <div align="center">
+  
 ## Connect with Me
+
 </div>
 <p align="center">
   <a href="https://linkedin.com/in/whoamijas0n" target="_blank">
