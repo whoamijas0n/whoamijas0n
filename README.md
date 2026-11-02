@@ -135,41 +135,7 @@ Soy **Jason** — estudiante de Ingeniería en Sistemas y Redes Informáticas en
 <br/>
 
 ---
-<div align="center">
 
-## Awards & Recognition
-
-</div>
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/1st_Place-FFD700?style=for-the-badge&labelColor=181717&logoColor=white" alt="1st Place"/><br/>
-      <strong>Desarrollo de Software</strong><br/>
-      <sub>FLIA UGB · 2026</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/3rd_Place-00BCD4?style=for-the-badge&labelColor=181717&logoColor=white" alt="3rd Place"/><br/>
-      <strong>CONINFO Nacional</strong><br/>
-      <sub>ASPROC · 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/2nd_Place-C0C0C0?style=for-the-badge&labelColor=181717&logoColor=white" alt="2nd Place"/><br/>
-      <strong>Robótica & IoT</strong><br/>
-      <sub>FLIA UGB · 2025</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/3rd_Place-CD7F32?style=for-the-badge&labelColor=181717&logoColor=white" alt="3rd Place"/><br/>
-      <strong>Automatización</strong><br/>
-      <sub>FLIA UGB · 2025</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
 <div align="center">
 
 ## Certifications & Credentials
